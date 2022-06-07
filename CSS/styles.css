@@ -33,6 +33,10 @@
 }
 .title {
     border: red solid;
-    
+}
+.tickets {
+    text-align: center;
+    border-top: solid grey;
+    border-bottom: solid grey;
     
 }
