@@ -1,0 +1,38 @@
+.hero-image {
+    border: solid grey; 
+    height: 400px;
+    background-image:url('../Images/pexels-muhammad-amdad-hossain.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-position: center;
+}
+.hero-text {
+    text-align: center;
+    padding-top: 50px;
+    color: #F2F2F2;
+}
+.hero-text button {
+    color: #2F513F;
+    background-color:#F2F2F2 ;
+}
+.nav {
+    background-color: beige;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}   
+.container {
+    justify-content: center;
+    
+}
+.thumbnail {
+    background-color: #2F513F;
+    height: 100px;
+    width: 100px;
+}
+.title {
+    border: red solid;
+    
+    
+}
