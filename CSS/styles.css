@@ -23,16 +23,14 @@
     align-items: center;
 }   
 .container {
-    justify-content: center;
+    justify-content: left;
     
 }
 .thumbnail {
     background-color: #2F513F;
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
 }
 .title {
     border: red solid;
-    
-    
 }
