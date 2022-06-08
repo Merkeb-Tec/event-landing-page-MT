@@ -33,17 +33,16 @@
 }
 .title {
     border: red solid;
+
 }
 .tickets {
     text-align: center;
     border-top: solid rgb(227, 224, 224);
     border-bottom: solid rgb(227, 224, 224);
-    
 }
 .venue {
     height: 500px;
 }
-
 .box2 {
     border: solid grey; 
     height:100%;
@@ -52,6 +51,5 @@
     background-repeat: no-repeat;
     position: relative;
     background-position: center;
-   
 }
 
